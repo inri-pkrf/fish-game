@@ -5,7 +5,7 @@ export default function HomeButton() {
   return (
     <button
       onClick={() => {
-        window.location.href = "https://totem-smart-flow.base44.app/";
+        window.location.href = "https://inri-pkrf.github.io/Totem-Pro-Final/";
       }}
       style={{
         width: "clamp(55px, 8vw, 85px)",
